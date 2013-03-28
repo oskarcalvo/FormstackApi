@@ -1,6 +1,10 @@
 <?php
-class ConnectToFormstack
+class FormstackApiConnection
 {
+
+
+
+
 }
 
 ?>
